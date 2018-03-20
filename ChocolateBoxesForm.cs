@@ -33,12 +33,18 @@ namespace ChocolateBarToluA
         private void button1_Click(object sender, EventArgs e)
         {
             const int MY_NUMBER = 20;
+            const int 
             int BoxNumber;
             BoxNumber = int.Parse(txtBoxNumber.Text);
              
-            if (BoxNumber == MY_NUMBER)
+            if (BoxNumber <= MY_NUMBER)
             {
                 lblPrizes.Text = "The Reward Is A Small Prize";
+            }
+            else
+                if (BoxNumber < MY_NUMBER)
+            {
+                lblPrizes.Text = "The Reward Is A ";
             }
         }
     }

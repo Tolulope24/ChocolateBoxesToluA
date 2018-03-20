@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\bin\Debug\ChocolateBarToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\bin\Debug\ChocolateBarToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\bin\Debug\ChocolateBarToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\obj\Debug\ChocolateBarToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\obj\Debug\ChocolateBarToluA.frmChocolateBar.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\obj\Debug\ChocolateBarToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\obj\Debug\ChocolateBarToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\obj\Debug\ChocolateBarToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\ChocolateBoxesToluA\ChocolateBoxesToluA\obj\Debug\ChocolateBarToluA.pdb
