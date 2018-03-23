@@ -32,18 +32,23 @@ namespace ChocolateBarToluA
 
         private void button1_Click(object sender, EventArgs e)
         {
-            const int MY_NUMBER = 20;
+            // Identify The Variables and Constants
             int BoxNumber;
+            // Get The Integer From The Text Box
             BoxNumber = int.Parse(txtBoxNumber.Text);
-             
-            if (BoxNumber <= MY_NUMBER)
+             // Classify The Prizes
+            if (BoxNumber > 20)
             {
-                lblPrizes.Text = "The Reward Is A Small Prize";
+                lblPrizes.Text = "The Reward Is A Prize !!";
             }
             else
-                if (BoxNumber < MY_NUMBER)
+                if (BoxNumber < 10)
             {
                 lblPrizes.Text = "The Reward Is An Honorable Mention ";
+            }
+            else
+            {
+                lblPrizes.Text = "The Reward is a small Prize !! ";
             }
         }
     }
